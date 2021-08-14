@@ -1,2 +1,2 @@
 # Health-trends
-hackathon projet
+hackathon project
